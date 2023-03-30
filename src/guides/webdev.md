@@ -123,6 +123,7 @@ computers/machines only know 1's and 0's so how does a computer understand somet
 |* Missing Semester |YouTube Channel, everything you need to know about the terminal and unix |[link](https://www.youtube.com/@MissingSemester)|
 |* Tech with Tim |YouTube Channel, Great Python Videos |[link](https://www.youtube.com/@TechWithTim)|
 |* Take U Forward |YouTube Channel, DSA and will help for Interviews |[link](https://www.youtube.com/@takeUforward)|
+|* theo t3 - Building a app from scrattch using TS|YouTube Video, 2 Hours does use quite alot of advanced topics but if you dont understand anything just google it and read about it. |[link](https://youtu.be/YkOSUVzOAA4)|
 |Ben Awad - Building a fullstack application from scratch using react and GraphQL|YouTube Video, 13 Hours |[link](https://youtu.be/I6ypD7qv3Z8)|
 |Network Chuck |YouTube Channel, some cool networking/ cybersecurity stuff simmplifed to the core |[link](https://www.youtube.com/@NetworkChuck)|
 |Devon Crawford |YouTube Channel, developer vlogs |[link](https://www.youtube.com/@DevonCrawford)|
