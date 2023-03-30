@@ -4,31 +4,33 @@
 - defines the structure of the webpage
 - while learning build your portfolio, include stuff like hobbies, fav songs, series youve been watching and something about your self.
 
-### resources
+### Resources
+*All of these resources can be found simply by googling it, but ik it can be intimidating at first so here are some, but build a good practice of googling resources. no one will/ have the time to help you out in an actual workspace.*
+
+*\* authors are who I prefer*
+
 | author          | desc                             |link                                |
 |-----------------|----------------------------------|------------------------------------|
 |* MDN Web Docs   |documentation                     |[link](https://developer.mozilla.org/en-US/docs/Web/HTML)|
 |* Traversy Media |YouTube, simple, straight forward |[link](https://youtu.be/UB1O30fR-EE)|
 |CodeWithHarry    |Youtube, Indian                   |[link](https://youtu.be/BsDoLVMnmZs)|
 
-all of these resources can be found simply by googling it, but ik it can be intimidating at first so here are some but build a good practice of googling resources. no one will help you out in actuall workspaces.
-
-\* authors are who I prefer
 
 ## CSS
 - styling the webpage
 - style your portfolio(the one you built while learning HTML)
 
-### resources
+### Resources
+*All of these resources can be found simply by googling it, but i know it can be intimidating at first so here are some, but build a good practice of googling resources. no one will/ have the time to help you out in an actual workspace.*
+
+*\* authors are who I prefer*
+
 | author          | desc                             |link                                |
 |-----------------|----------------------------------|------------------------------------|
 |* MDN Web Docs   |documentation                     |[link](https://developer.mozilla.org/en-US/docs/Web/CSS)|
 |* Traversy Media |YouTube, simple, straight forward |[link](https://youtu.be/yfoY53QXEnI)|
 |CodeWithHarry    |Youtube, Indian                   |[link](https://youtu.be/AP3_V7KXHs4)|
 
-all of these resources can be found simply by googling it, but ik it can be intimidating at first so here are some but build a good practice of googling resources. no one will help you out in actuall workspaces.
-
-\* authors are who I prefer
 
 ## Git and GitHub
 - install [Git](https://git-scm.com/)
@@ -49,7 +51,9 @@ you do not have to learn all the different version control actions or making pul
 
 we are learning this early on to build a good habit of using github. 
 
-### resources
+### Resources
+\* authors are who I prefer
+
 | author             | desc                        |link                                |
 |--------------------|-----------------------------|------------------------------------|
 |* Git Cheat Sheet   |Cheat Sheet                  |[link](https://education.github.com/git-cheat-sheet-education.pdf)|
@@ -61,11 +65,12 @@ we are learning this early on to build a good habit of using github.
 
 
 
-\* authors are who I prefer
 
+
+ ```
+ i am tired i will write the rest later baii
+ ```
 ## JS
-
-
 ## React
 ## Build projects
 
@@ -74,3 +79,11 @@ we are learning this early on to build a good habit of using github.
 - operating systems [OS]
 - computer networking [CN]
 - database management system [DBMS]
+
+
+## cool things/skills that are good as a developer to have but not necessary
+- touch typing
+- learing vim (VERY HIGH SKILL CAP, EVEN I SHOULD LEARN)
+
+
+## cool channels/playlists to watch while drinking chaii
