@@ -1,1 +1,1 @@
-# session on github
+a repositry to write stuff down
